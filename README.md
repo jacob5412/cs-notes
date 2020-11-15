@@ -26,7 +26,6 @@ A compilation of all my computer science notes
 
 | Folder                                  | Description                                     |
 | --------------------------------------- | ----------------------------------------------- |
-| [Docker](/Docker)                       | Docker and Kubernetes commands                  |
 | [Git](/Git)                             | Verson Control commands                         |
 | [Linux](/Linux)                         | Linux commands                                  |
 | [Machine Learning](/Machine_Learning)   | Machine Learning Algorithms and Implementations |
