@@ -5,7 +5,7 @@ async-generator==1.10
 attrs==20.3.0
 backcall==0.2.0
 black==20.8b1
-bleach==3.2.1
+bleach==3.3.0
 cffi==1.14.4
 click==7.1.2
 cycler==0.10.0
