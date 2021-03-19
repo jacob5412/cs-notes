@@ -16,3 +16,4 @@ A compilation of all my Machine Learning notes
 | [Clever Algorithms](./clever_algorithms)                  | Nature-Inspired Programming Recipes and book       |
 | [Notes](./Notes)                                          | Notes from webpages                                |
 | [Neural Networks](./Neural_Networks)                      | Neural Networks                                    |
+| [EDA](./EDA)                                              | How to do an Exploratory Data Analysis             |

@@ -24,12 +24,12 @@ A compilation of all my computer science notes
 
 ## Overview
 
-| Folder                                  | Description                                     |
-| --------------------------------------- | ----------------------------------------------- |
-| [Git](/Git)                             | Verson Control commands                         |
-| [Linux](/Linux)                         | Linux commands                                  |
-| [Machine Learning](/Machine_Learning)   | Machine Learning Algorithms and Implementations |
-| [Python](/Python)                       | Python Programming and Syntax                   |
-| [Statistics Probability](/Python)       | Statistics and Probabilty Implementation        |
-| [Miscellaneous](/Miscellaneous)         | Non-CS Articles, Summaries, etc.                |
-| [SQL](/SQL)                             | SQL notes from DataCamp                         |
+| Folder                                | Description                                     |
+| ------------------------------------- | ----------------------------------------------- |
+| [Git](/Git)                           | Verson Control commands                         |
+| [Linux](/Linux_Mac)                   | Linux and Mac commands                          |
+| [Machine Learning](/Machine_Learning) | Machine Learning Algorithms and Implementations |
+| [Python](/Python)                     | Python Programming and Syntax                   |
+| [Statistics](/Statistics)             | Statistics and its Implementation               |
+| [Miscellaneous](/Miscellaneous)       | Non-CS Articles, Summaries, etc.                |
+| [SQL](/SQL)                           | SQL notes                                       |
